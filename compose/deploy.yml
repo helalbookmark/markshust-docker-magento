@@ -1,4 +1,4 @@
-# docker stack deploy  -c deploy.yml 
+# docker stack deploy  -c deploy.yml helal
 
 # Mark Shust's Docker Configuration for Magento
 # (https://github.com/markshust/docker-magento)
